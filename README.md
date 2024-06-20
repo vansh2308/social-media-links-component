@@ -16,16 +16,16 @@ This is a component for displaying all the social media links of a user at one p
 
 ### Links
 
-- [Github URL](https://your-solution-url.com)
-- [Live Site URL](https://your-live-site-url.com)
+- [Github URL](https://github.com/vansh2308/social-media-links-component)
+- [Live Site URL](https://social-media-links-component.vercel.app/)
 
 ## Usage
 
 Navigate following commands in your terminal 
 
 ```bash
-git clone 
-cd ./
+git clone https://github.com/vansh2308/social-media-links-component
+cd ./social-media-links-component
 npm i 
 npm run dev 
 ```
